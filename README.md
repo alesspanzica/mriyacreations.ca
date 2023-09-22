@@ -5,8 +5,8 @@
 This repository contains the source code for a website created for a client's small business - Mriya Creations. The website is built using HTML, CSS, and JavaScript to provide a clean and user-friendly online presence for the client's business.
 
 ## Table of Contents
-[Project Description](#pd)
-[Requirements](#req)
+1. [Project Description](#pd)
+2. [Requirements](#req)
 3. Features
 4. Technologies Used
 5. Installation
