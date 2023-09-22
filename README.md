@@ -1,18 +1,19 @@
 # Mriya Creations Website Project
 
+<a name="pd"/>
 ## Problem Description
 This repository contains the source code for a website created for a client's small business - Mriya Creations. The website is built using HTML, CSS, and JavaScript to provide a clean and user-friendly online presence for the client's business.
 
 ## Table of Contents
-1. Project Description
-2. Requirements
+[Project Description](#pd)
+[Requirements](#req)
 3. Features
 4. Technologies Used
 5. Installation
 6. Configuration
 7. License
 
-
+<a name="req"/>
 ## Requirements
 The client, a small business owner, required an online platform to showcase their products/services, provide contact information, and give potential customers a brief overview of their business. This website serves as a digital storefront and informational hub for the client.
 
