@@ -14,6 +14,6 @@ Contact Us: Offers various means of contact including a contact form.
 Responsive Design: Ensures the website is accessible and functional on various devices (desktop, tablet, and mobile).
 
 ## Technologies Used
-HTML
-CSS
-JavaScript
+* HTML
+* CSS
+* JavaScript
